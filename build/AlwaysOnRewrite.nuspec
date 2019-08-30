@@ -4,11 +4,11 @@
     <id>AlwaysOnRewrite</id>
     <title>Rewrite AlwaysOn requests</title>
     <version>0.0.3</version>
-    <authors>peteryates</authors>
+    <authors>Peter Yates</authors>
     <license type="expression">MIT</license>
     <projectUrl>https://github.com/pizzaboy/AlwaysOnRewriteSiteExtension</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>Azure web app site extension that rewrites Alwayson requests to point to an existing file</description>
+    <description>Azure web app site extension that rewrites Alwayson requests to point to favicon.ico</description>
     <tags>AzureSiteExtension</tags>
   </metadata>
   <files>
