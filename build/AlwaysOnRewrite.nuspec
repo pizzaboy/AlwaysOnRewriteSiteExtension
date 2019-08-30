@@ -3,10 +3,10 @@
   <metadata>
     <id>AlwaysOnRewrite</id>
     <title>Rewrite AlwaysOn requests</title>
-    <version>0.0.2</version>
+    <version>0.0.3</version>
     <authors>peteryates</authors>
     <license type="expression">MIT</license>
-    <projectUrl>http://www.deltafs.co.uk</projectUrl>
+    <projectUrl>https://github.com/pizzaboy/AlwaysOnRewriteSiteExtension</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Azure web app site extension that rewrites Alwayson requests to point to an existing file</description>
     <tags>AzureSiteExtension</tags>
