@@ -6,7 +6,7 @@
     <version>0.0.1</version>
     <authors>peteryates</authors>
     <licenseUrl>http://opensource.org/licenses/Apache-2.0</licenseUrl>
-    <projectUrl></projectUrl>
+    <projectUrl>http://www.deltafs.co.uk</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Azure web app site extension that rewrites Alwayson requests to point to an existing file</description>
     <tags>azuresiteextension</tags>
