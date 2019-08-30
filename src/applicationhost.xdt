@@ -3,7 +3,7 @@
   <location path="%XDT_SITENAME%" xdt:Transform="InsertIfMissing" xdt:Locator="Match(path)">
     <system.webServer xdt:Transform="InsertIfMissing">
       <applicationInitialization xdt:Transform="InsertIfMissing">
-        <add initializationPage="/favicon.png"  xdt:Transform="InsertIfMissing"/>
+        <add initializationPage="/favicon.ico"  xdt:Transform="InsertIfMissing"/>
       </applicationInitialization>
 
       <rewrite xdt:Transform="InsertIfMissing">
@@ -13,7 +13,7 @@
             <conditions>
               <add input="{HTTP_USER_AGENT}" pattern="^AlwaysOn$" />
             </conditions>
-            <action type="Rewrite" url="/favicon.png" />
+            <action type="Rewrite" url="/favicon.ico" />
           </rule>
         </rules>
       </rewrite>    
